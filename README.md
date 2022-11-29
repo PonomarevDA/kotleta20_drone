@@ -6,7 +6,7 @@ Hardware:
 
 ## 1. Quadrotor connection scheme
 
-![](https://legacy.uavcan.org/Specification/figures/can_chaining_non_redundant.png)
+<img src="../assets/kotleta20/ardupilot.png"/>
 
 ## 2. Ardupilot yakut monitor
 
